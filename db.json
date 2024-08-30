@@ -1,0 +1,214 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Ana Silva",
+            "idade": 21,
+            "curso": "Engenharia de Software",
+            "email": "ana.silva@email.com"
+        },
+        {
+            "id": 2,
+            "nome": "Carlos Pereira",
+            "idade": 22,
+            "curso": "Medicina",
+            "email": "carlos.pereira@email.com"
+        },
+        {
+            "id": 3,
+            "nome": "Mariana Costa",
+            "idade": 20,
+            "curso": "Arquitetura",
+            "email": "mariana.costa@email.com"
+        },
+        {
+            "id": 4,
+            "nome": "João Oliveira",
+            "idade": 23,
+            "curso": "Direito",
+            "email": "joao.oliveira@email.com"
+        },
+        {
+            "id": 5,
+            "nome": "Fernanda Santos",
+            "idade": 19,
+            "curso": "Psicologia",
+            "email": "fernanda.santos@email.com"
+        },
+        {
+            "id": 6,
+            "nome": "Pedro Almeida",
+            "idade": 22,
+            "curso": "Administração",
+            "email": "pedro.almeida@email.com"
+        },
+        {
+            "id": 7,
+            "nome": "Camila Rocha",
+            "idade": 21,
+            "curso": "Biologia",
+            "email": "camila.rocha@email.com"
+        },
+        {
+            "id": 8,
+            "nome": "Lucas Martins",
+            "idade": 24,
+            "curso": "Engenharia Civil",
+            "email": "lucas.martins@email.com"
+        },
+        {
+            "id": 9,
+            "nome": "Juliana Lima",
+            "idade": 20,
+            "curso": "Design Gráfico",
+            "email": "juliana.lima@email.com"
+        },
+        {
+            "id": 10,
+            "nome": "Ricardo Fernandes",
+            "idade": 25,
+            "curso": "Educação Física",
+            "email": "ricardo.fernandes@email.com"
+        },
+        {
+            "id": 11,
+            "nome": "Tatiane Almeida",
+            "idade": 22,
+            "curso": "Comunicação Social",
+            "email": "tatiane.almeida@email.com"
+        },
+        {
+            "id": 12,
+            "nome": "Felipe Sousa",
+            "idade": 23,
+            "curso": "Física",
+            "email": "felipe.sousa@email.com"
+        },
+        {
+            "id": 13,
+            "nome": "Larissa Moreira",
+            "idade": 21,
+            "curso": "Matemática",
+            "email": "larissa.moreira@email.com"
+        },
+        {
+            "id": 14,
+            "nome": "Vinícius Rocha",
+            "idade": 24,
+            "curso": "Química",
+            "email": "vinicius.rocha@email.com"
+        },
+        {
+            "id": 15,
+            "nome": "Beatriz Ribeiro",
+            "idade": 19,
+            "curso": "História",
+            "email": "beatriz.ribeiro@email.com"
+        },
+        {
+            "id": 16,
+            "nome": "Gustavo Martins",
+            "idade": 22,
+            "curso": "Ciência da Computação",
+            "email": "gustavo.martins@email.com"
+        },
+        {
+            "id": 17,
+            "nome": "Aline Souza",
+            "idade": 20,
+            "curso": "Farmácia",
+            "email": "aline.souza@email.com"
+        },
+        {
+            "id": 18,
+            "nome": "Diego Santos",
+            "idade": 23,
+            "curso": "Engenharia Elétrica",
+            "email": "diego.santos@email.com"
+        },
+        {
+            "id": 19,
+            "nome": "Júlia Castro",
+            "idade": 21,
+            "curso": "Pedagogia",
+            "email": "julia.castro@email.com"
+        },
+        {
+            "id": 20,
+            "nome": "Rafael Lima",
+            "idade": 24,
+            "curso": "Economia",
+            "email": "rafael.lima@email.com"
+        },
+        {
+            "id": 21,
+            "nome": "Letícia Silva",
+            "idade": 20,
+            "curso": "Engenharia Ambiental",
+            "email": "leticia.silva@email.com"
+        },
+        {
+            "id": 22,
+            "nome": "André Costa",
+            "idade": 22,
+            "curso": "Ciências Contábeis",
+            "email": "andre.costa@email.com"
+        },
+        {
+            "id": 23,
+            "nome": "Paula Martins",
+            "idade": 21,
+            "curso": "Artes Cênicas",
+            "email": "paula.martins@email.com"
+        },
+        {
+            "id": 24,
+            "nome": "Samuel Oliveira",
+            "idade": 23,
+            "curso": "Publicidade e Propaganda",
+            "email": "samuel.oliveira@email.com"
+        },
+        {
+            "id": 25,
+            "nome": "Natália Ribeiro",
+            "idade": 19,
+            "curso": "Turismo",
+            "email": "natalia.ribeiro@email.com"
+        },
+        {
+            "id": 26,
+            "nome": "Eduardo Almeida",
+            "idade": 25,
+            "curso": "Jornalismo",
+            "email": "eduardo.almeida@email.com"
+        },
+        {
+            "id": 27,
+            "nome": "Marcos Santos",
+            "idade": 22,
+            "curso": "Matemática",
+            "email": "marcos.santos@email.com"
+        },
+        {
+            "id": 28,
+            "nome": "Laura Costa",
+            "idade": 21,
+            "curso": "Design de Interiores",
+            "email": "laura.costa@email.com"
+        },
+        {
+            "id": 29,
+            "nome": "Vinícius Almeida",
+            "idade": 23,
+            "curso": "Engenharia Mecânica",
+            "email": "vinicius.almeida@email.com"
+        },
+        {
+            "id": 30,
+            "nome": "Camila Fernandes",
+            "idade": 20,
+            "curso": "Educação Artística",
+            "email": "camila.fernandes@email.com"
+        }
+    ]
+}
